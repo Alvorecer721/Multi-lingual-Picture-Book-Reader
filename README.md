@@ -1,4 +1,14 @@
+## Multi-lingual Picture Book Reader
 
+Code repository for Final year dissertation in University of Nottingham 2020-2021. 
+
+#### Functional Prototype Demo
+
+
+https://user-images.githubusercontent.com/61760910/209255009-873e469a-b0c0-45c5-9d45-e9ee6946ef45.mp4
+
+
+#### Project Structure
 
 ```
 
