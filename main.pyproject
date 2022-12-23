@@ -1,0 +1,3 @@
+{
+    "files": ["UI/qml/main.qml", "UI/qml/app.qml", "UI/main.py", "UI/image/uibackground.gif", "utils/temp_folder.py"]
+}
